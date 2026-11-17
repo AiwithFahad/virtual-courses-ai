@@ -5,6 +5,7 @@
 **Grow your skills to advance your career path.** A free online learning platform for students and professionals: full courses with structured modules and video lessons, micro-learning reels, quizzes, completion certificates, progress tracking, smart course search and a built-in learning assistant — all in one place, all free.
 
 🔗 **Live demo:** https://virtualcoursesdemo.netlify.app/
+💾 **Full source code (Google Drive):** https://drive.google.com/file/d/1ll0a8mHAUveK4DCIKX5PZXEcvqLRSKVE/view?usp=sharing
 🎓 **19 free courses · 6 categories · certificates, quizzes & reels included**
 
 ![Status](https://img.shields.io/badge/status-live-brightgreen) ![Courses](https://img.shields.io/badge/courses-19%20free-blue) ![Stack](https://img.shields.io/badge/stack-React%20%2B%20TypeScript%20%2B%20Vite-61dafb) ![Hosting](https://img.shields.io/badge/hosting-Netlify-00C7B7)
