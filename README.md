@@ -1,6 +1,6 @@
 # Virtual Courses AI — Free AI-Powered Learning Platform
 
-![Virtual Courses AI](assets/banner.jpg)
+![Virtual Courses AI](banner.jpg)
 
 **Grow your skills to advance your career path.** A free online learning platform for students and professionals: full courses with structured modules and video lessons, micro-learning reels, quizzes, completion certificates, progress tracking, smart course search and a built-in learning assistant — all in one place, all free.
 
